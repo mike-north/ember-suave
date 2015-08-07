@@ -20,6 +20,7 @@
   "disallowTrailingComma": true,
   "disallowTrailingWhitespace": true,
   "disallowVar": true,
+  "excludedFiles": ["tests/blanket-options.js"],
   "requireArrayDestructuring": true,
   "requireBlocksOnNewline": true,
   "requireCamelCaseOrUpperCaseIdentifiers": true,
